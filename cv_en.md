@@ -15,14 +15,14 @@
 >    * Focused on mobile experience with complicated UI (Responsive Design)
 >    * Worked with REST APIs (Ruby on Rails)
 
-> **Front-End Developer** – May 2017 – Nov 2019 in [Social Bicycles/JUMP Bikes](https://socialbicycles.com/), Cracow (acquired by Uber Technologies in Apr 2018)
+> **Front-End Developer** – May 2017 – Nov 2019 in [Social Bicycles/JUMP Bikes](https://socialbicycles.com/) (acquired by Uber Technologies in Apr 2018), Cracow, Poland
 > *   Developed (responsive and cross-browser) views on the top of REST or GraphQL APIs, using the React, Ember or Vanilla JavaScript
 > *   Maintained and developed large scale enterprise data-based apps with a great focus on clean code and best practices (Git, Gulp/Webpack, HTML5, CSS3/Sass, React, ES6, GraphQL)
 > *   Collaborated with remote teams in different time zones (SF, NY)
 > *   Developed a company (JUMP Bikes) website with Gatsby and Wordpress as Headless CMS
 
 
-> **Front-End Developer + UX Designer** – Apr 2013 – Apr 2017 in [Codest](https://thecodest.co/), Cracow (d/b/a Yieldbird, formerly AdTaily)
+> **Front-End Developer + UX Designer** – Apr 2013 – Apr 2017 in [Codest](https://thecodest.co/) (d/b/a Yieldbird, formerly AdTaily), Cracow, Poland
 >    *   Collected customer requirements and creating information architecture
 >    *   Assisted in solving business problems and user needs
 >    *   Created sketches, mockups and prototypes of applications (solutions)
@@ -30,7 +30,7 @@
 >    *   Created responsive views and User Interfaces
 >    *   Worked with applications written in Ruby and JavaScript
 
-> **Front-End Developer** – Aug 2009 – Mar 2013 in [MKI Digital Agency](http://www.mki.pl), Cracow
+> **Front-End Developer** – Aug 2009 – Mar 2013 in [MKI Digital Agency](http://www.mki.pl), Cracow, Poland
 >    *   Developed designs into fully functional web sites (standard, e-commerce)
 >    *   Built Facebook applications
 >    *   Website optimization for displays on mobile devices (smartphones, tablets)
